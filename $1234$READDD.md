@@ -6,3 +6,4 @@ to set the multi tool up go to notepad and enter the multitool.bat and copy the 
 
 mCjVZM2Ft9gOAN+6yqsEmA==
 
+[Editors note: Please learn grammar, @landonscripts]
