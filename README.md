@@ -1,1 +1,3 @@
-look at the other read me to know how to use and ik there could be buggs i am 13 and i created this all by myself and i will be making changes but not now bye
+Look at the other Readme for more information on this tool.
+This project is WIP and can contain minor up to fatal bugs. 
+If you find any bugs, write a detailed issue and describe your problem so that the creator can fix the bug.
